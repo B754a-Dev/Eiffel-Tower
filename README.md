@@ -7,3 +7,8 @@ I couldn't get the grey block colored.
 This is what the final result looks like I think it turned out very well, I spent 10 hours in all on this project and I like it a lot, This project has taught be a lot about problem solving and being focused  when doing a task. I hope you like it. I used to not like onshape and I found all of the controlles really hard to use but after a lil it gets easer 
 
 <img width="577" height="433" alt="1130-removebg-preview_1" src="https://github.com/user-attachments/assets/05ea7d03-29d6-427c-ba72-f5c9f2bf848c" />
+
+
+#How I made this
+
+I made this by using cad witch lets you 3d model stuff I started with a blank area and built everything up by hand I didn't use ai for this and I did use a refrence image .
