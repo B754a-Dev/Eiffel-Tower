@@ -15,3 +15,6 @@ I made this by using cad witch lets you 3d model stuff I started with a blank ar
 
 # Challenges
 There was many things that was hard like the curves for the Eiffel tower this was hard because in Onshape you can extrude two curves connected so what I had to do was create a sketch add a cube then cut it with the curve  but that also didn't work so I had to use the cercle tool to remove the issue and that worked just fine. Another issue was when I was coloring the hole Eiffel there was one part that just would not get colored so I had to hide it from the final photo.
+
+# Conclusion
+In conclusion I think this project turned out really good I did have some minor set backs but other while this project was one of my favorite to build and it was really fun leaning more onshape. 
